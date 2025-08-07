@@ -1,4 +1,4 @@
-# XOR Neural Network with Pruning and Transfer Learning
+# Experiments on Neural Network Pruning and It’s Effect on Transfer Learning
 
 This project implements a neural network from scratch using NumPy to learn the XOR logic gate. After training, the model undergoes weight pruning to reduce unnecessary connections while preserving performance. The pruned model is then used for transfer learning on OR and AND logic gates, demonstrating how learned weights can be reused for related tasks.
 
